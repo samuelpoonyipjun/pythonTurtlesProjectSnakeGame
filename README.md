@@ -8,3 +8,4 @@ The snake is supposed to collect the food to earn points.
 When it hits the edge, the game ends as the player "dies". 
 
 ![Screenshot 2025-05-31 212319](https://github.com/user-attachments/assets/5fc5b31a-3b75-43cb-a343-ec6f60980652)
+As the snake eats food, it grows longer and the score increases by 1 each time. 
